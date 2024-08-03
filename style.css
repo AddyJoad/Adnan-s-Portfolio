@@ -1201,14 +1201,14 @@ textarea {
     /* Contact Ends*/
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 325px){
   body,html{
     overflow-x: hidden;
   }
   /* home section starts */
-  .homecontent{
+/*   .homecontent{
     margin-left: 3%;
-  }
+  } */
   .homecontent .head-tag span{
     font-size: calc(10px + 3vmax);
   }
